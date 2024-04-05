@@ -1,0 +1,8 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/secure/main.js": "/js/secure/main.js",
+    "/js/secure/home/index.js": "/js/secure/home/index.js",
+    "/css/secure/home/index.css": "/css/secure/home/index.css",
+    "/css/secure/main.css": "/css/secure/main.css",
+    "/css/app.css": "/css/app.css"
+}
