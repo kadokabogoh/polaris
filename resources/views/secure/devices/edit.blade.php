@@ -46,6 +46,7 @@
                                 <option value="swp" @isset ($item) @if($item->model == 'swp') selected @endif @endisset>Sindcon Water Pressure</option>
                                 <option value="ci" @isset ($item) @if($item->model == 'ci') selected @endif @endisset>Cybel Incometer</option>
                                 <option value="lt" @isset ($item) @if($item->model == 'lt') selected @endif @endisset>Lansitec Tracker</option>
+                                <option value="djuwm" @isset ($item) @if($item->model == 'djuwm') selected @endif @endisset>DJ Ultrasonic Water Meter</option>
                             </select>
                         </div>
 

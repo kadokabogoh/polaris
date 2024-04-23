@@ -44,6 +44,7 @@
                                 <option value="swp">Sindcon Water Pressure</option>
                                 <option value="ci">Cybel Incometer</option>
                                 <option value="lt">Lansitec Tracker</option>
+                                <option value="djuwm">DJ Ultrasonic Water Meter</option>
                             </select>
                         </div>
 
